@@ -1,6 +1,7 @@
+<h1>Hi</h1>
 <p>I'm Abdul Rafay. I'm  Mern Stack Developer. Coding is my passion.</p>
 
-<h1>How to reach me</h1>
+<h3>How to reach me</h3>
 <ul>
     <li>
         <a href="https://drive.google.com/file/d/1kT7Oxrauqr1w2-LsxbBxbezlaJsl2QIN/view?usp=sharing">My Resume</a>
