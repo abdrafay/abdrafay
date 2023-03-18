@@ -4,7 +4,7 @@
 <h3>How to reach me</h3>
 <ul>
     <li>
-        <a href="https://drive.google.com/file/d/1kT7Oxrauqr1w2-LsxbBxbezlaJsl2QIN/view?usp=sharing">My Resume</a>
+        <a href="https://drive.google.com/file/d/1aAAlr_af4ThKbv_gkWqnFVmEEZoWTYxx/view?usp=sharing">My Resume</a>
     </li>
     <li>
         <a href="mailto:zainrafay12@gmail.com">zainrafay12@gmail.com</a>
