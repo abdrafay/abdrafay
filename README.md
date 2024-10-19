@@ -7,7 +7,7 @@
         <a href="https://drive.google.com/file/d/1aAAlr_af4ThKbv_gkWqnFVmEEZoWTYxx/view?usp=sharing">My Resume</a>
     </li>
     <li>
-        <a href="mailto:zainrafay12@gmail.com">zainrafay12@gmail.com</a>
+        <a href="mailto:abdrafay258@gmail.com">abdrafay258@gmail.com</a>
     </li>
 </ul>
 
